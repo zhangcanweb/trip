@@ -3,7 +3,6 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 import VueAwesomeSwiper from 'vue-awesome-swiper'
-import '@/assets/style/reset.scss'
 
 import 'swiper/dist/css/swiper.css'
 
